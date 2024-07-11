@@ -1,0 +1,35 @@
+.container{
+    height: 2000px;
+    width: 100%;
+    background-color: #fff;
+}
+.header1{
+    height: 480px;
+    width: 70%;
+    max-width: 1104px;
+    background-color: black;
+    margin-right: 60px;
+}
+.h2{
+    height: 150px;
+    width: 100%;
+    padding-top: 40px;
+    
+}
+.h2 ul a{
+list-style-type: none;
+text-decoration: none;
+}
+.h2 ul button{
+    height: 35px;
+    width: 120px;
+    margin-left: 80px;
+    background: black;
+    color: #fff;
+}
+.header1 h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
