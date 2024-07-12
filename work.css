@@ -1,0 +1,94 @@
+.container{
+    height: 3200px;
+    width: 100%;
+    background-color: #fff;
+}
+.header1{
+    height: 480px;
+    width: 96%;
+    background-color: black;
+    margin: 50px 0px 20px 40px;
+    margin-top: -30px;
+}
+.h2{
+    height: 100px;
+    width: 100%;
+    padding-top: 50px;
+    
+}
+.h2 ul a{
+list-style-type: none;
+text-decoration: none;
+}
+.h2 ul button{
+    height: 35px;
+    width: 120px;
+    margin-left: 80px;
+    background: black;
+    color: #fff;
+}
+.header1 h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+.header2{
+    height: 900px;
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+}
+.header2 img{
+    height: 500px;
+    width: 100%;
+    padding-top: 50px;
+}
+.header3{
+    height: 900px;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    margin-top: -150px;
+}
+.header3 img{
+    height: 500px;
+    width: 100%;
+    padding-top: 50px;
+}
+.header4{
+    height: 900px;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    margin-top: -150px;
+}
+.header4 img{
+    height: 500px;
+    width: 100%;
+    padding-top: 50px;
+}
+.header5{
+    height: 500px;
+    width: 96%;
+    margin-left: 30px;
+    background-color: rgb(230, 231, 233);
+}
+.para{
+    padding-top: 150px;
+    margin-left: 300px;
+    height: 300px;
+    width: 750px;
+    text-align: center;
+}
+.para p{
+    font-size: 20px;
+}
+.para button{
+    height: 45px;
+    margin-left:0px;
+    width: 150px;
+    background-color: black;
+    color: white;
+}

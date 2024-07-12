@@ -1,0 +1,131 @@
+.container{
+    height: 3000px;
+    width: 100%;
+    background-color: #fff;
+}
+.header1{
+    height: 480px;
+    width: 96%;
+    background-color: black;
+    margin: 50px 0px 20px 40px;
+    margin-top: -30px;
+}
+.h2{
+    height: 100px;
+    width: 100%;
+    padding-top: 50px;
+    
+}
+.h2 ul a{
+list-style-type: none;
+text-decoration: none;
+}
+.h2 ul button{
+    height: 35px;
+    width: 120px;
+    margin-left: 80px;
+    background: black;
+    color: #fff;
+}
+.header1 h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+.header2{
+    height: 150px;
+    width: 100%;
+    background: #fff;
+}
+.header2 p{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+.header3{
+    height: 600px;
+    width: 100%;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(101, 104, 107);
+}
+.header4{
+    height: 180px;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+}
+.one{
+    height: 180px;
+    width: 30%;
+    float: left;
+    margin-left: 120px;
+    font-size: 20px;
+    color: rgb(101, 104, 107);
+    
+}
+.two{
+    height: 180px;
+    width: 30%;
+    float: left;
+    font-size: 20px;
+    color: rgb(101, 104, 107);
+}
+.three{
+    height: 280px;
+    width: 30%;
+    float: left;
+    font-size: 20px;
+    color: rgb(101, 104, 107);
+    
+    
+}
+.four{
+    height: 280px;
+    width: 30%;
+    font-size: 20px;
+    margin-left: 120px;
+    float: left;
+    color: rgb(101, 104, 107);
+}
+.five{
+    height: 180px;
+    width: 30%;
+    float: left;
+    font-size: 20px;
+    color: rgb(101, 104, 107);
+}
+.six{
+    height: 180px;
+    width: 30%;
+    float: left;
+    font-size: 20px;
+    color: rgb(101, 104, 107);
+}
+.header5{
+    margin-top: 700PX;
+    height: 500px;
+    width: 96%;
+    margin-left: 30px;
+    background-color: rgb(230, 231, 233);
+}
+.para{
+    padding-top: 150px;
+    margin-left: 300px;
+    height: 300px;
+    width: 750px;
+    text-align: center;
+}
+.para p{
+    font-size: 20px;
+}
+.para button{
+    height: 45px;
+    margin-left:0px;
+    width: 150px;
+    background-color: black;
+    color: white;
+}
+
